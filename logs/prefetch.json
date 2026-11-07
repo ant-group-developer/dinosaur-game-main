@@ -1,0 +1,92 @@
+[
+  {
+    "uri": "/__remote/game-cdn.poki.com/scripts/v2/poki-sdk.js",
+    "status": 200,
+    "bytes": 6688
+  },
+  {
+    "uri": "img/1x-obstacle-large.png",
+    "status": 200,
+    "bytes": 467
+  },
+  {
+    "uri": "img/1x-obstacle-small.png",
+    "status": 200,
+    "bytes": 337
+  },
+  {
+    "uri": "img/1x-cloud.png",
+    "status": 200,
+    "bytes": 140
+  },
+  {
+    "uri": "img/1x-text.png",
+    "status": 200,
+    "bytes": 325
+  },
+  {
+    "uri": "img/1x-horizon.png",
+    "status": 200,
+    "bytes": 266
+  },
+  {
+    "uri": "img/1x-trex.png",
+    "status": 200,
+    "bytes": 344
+  },
+  {
+    "uri": "img/1x-restart.png",
+    "status": 200,
+    "bytes": 159
+  },
+  {
+    "uri": "img/2x-obstacle-large.png",
+    "status": 200,
+    "bytes": 522
+  },
+  {
+    "uri": "img/2x-obstacle-small.png",
+    "status": 200,
+    "bytes": 372
+  },
+  {
+    "uri": "img/2x-cloud.png",
+    "status": 200,
+    "bytes": 169
+  },
+  {
+    "uri": "img/2x-text.png",
+    "status": 200,
+    "bytes": 335
+  },
+  {
+    "uri": "img/2x-horizon.png",
+    "status": 200,
+    "bytes": 323
+  },
+  {
+    "uri": "img/2x-trex.png",
+    "status": 200,
+    "bytes": 389
+  },
+  {
+    "uri": "img/2x-restart.png",
+    "status": 200,
+    "bytes": 190
+  },
+  {
+    "uri": "sounds/offline-sound-press.mp3",
+    "status": 200,
+    "bytes": 3755
+  },
+  {
+    "uri": "sounds/offline-sound-hit.mp3",
+    "status": 200,
+    "bytes": 5730
+  },
+  {
+    "uri": "sounds/offline-sound-reached.mp3",
+    "status": 200,
+    "bytes": 7497
+  }
+]

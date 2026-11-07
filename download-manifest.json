@@ -1,0 +1,107 @@
+{
+  "source": "https://a4e4a244-d11b-4d94-b1d8-deb2dbbaff02.gdn.poki.com/09a3212c-2757-4232-93dc-c002f4ac007f/",
+  "fileCount": 20,
+  "totalBytes": 414601,
+  "files": [
+    {
+      "path": "img/1x-cloud.png",
+      "bytes": 140,
+      "sha256": "7a5d37f714d830591ac6faefe1fa9c1eec6991ccc5764e793349242ed19aca15"
+    },
+    {
+      "path": "img/1x-horizon.png",
+      "bytes": 266,
+      "sha256": "8b1b30964ec10d2bdc9a9ab35f908c793655a5bb6cdf74b3f910ee5df601d870"
+    },
+    {
+      "path": "img/1x-obstacle-large.png",
+      "bytes": 467,
+      "sha256": "0755aad396fce2da33c12c0a066a0ebde1bc8d4cb3fdcf72f28988b6127e0388"
+    },
+    {
+      "path": "img/1x-obstacle-small.png",
+      "bytes": 337,
+      "sha256": "64bd1ff1354da4c762269144134b1606de540ec18d31500c138a334edd9f5ef4"
+    },
+    {
+      "path": "img/1x-restart.png",
+      "bytes": 159,
+      "sha256": "685836275410cf00e8fd839b7eb98e59586e3a3719a35271f64cd860697daabd"
+    },
+    {
+      "path": "img/1x-text.png",
+      "bytes": 325,
+      "sha256": "cbe81d8cb1df02f7fb7ef6188ba7b21e7e0d725c14a284a75a41bd7eb03754fd"
+    },
+    {
+      "path": "img/1x-trex.png",
+      "bytes": 344,
+      "sha256": "2cb2e67b6e991a5f5d6c10086f40e1ada80fb3a3f94e5beab064135edd9f57ca"
+    },
+    {
+      "path": "img/2x-cloud.png",
+      "bytes": 169,
+      "sha256": "30a997768f065ef0b6db3be01c5726d95180379855808c589925929856f9e31c"
+    },
+    {
+      "path": "img/2x-horizon.png",
+      "bytes": 323,
+      "sha256": "087e54b29e4a04ebdde9ef95bd0f6d8f6291062740023352ec760c919681467b"
+    },
+    {
+      "path": "img/2x-obstacle-large.png",
+      "bytes": 522,
+      "sha256": "15122980cc728eab592de55cb9c821d3fd029ee04cfc7274dcd177a280d31551"
+    },
+    {
+      "path": "img/2x-obstacle-small.png",
+      "bytes": 372,
+      "sha256": "b3e1aa6739a55ea9793ed66b2c16eeaf0205af45577313f58267d26315b956eb"
+    },
+    {
+      "path": "img/2x-restart.png",
+      "bytes": 190,
+      "sha256": "dfd977acb1874efbc35cecc1470fad603babcfd5d59c9bd4412879ed7755069a"
+    },
+    {
+      "path": "img/2x-text.png",
+      "bytes": 335,
+      "sha256": "6b920f14ec0be12bf96796b6e2144730991f5799711fc5d94f34d61729943a8c"
+    },
+    {
+      "path": "img/2x-trex.png",
+      "bytes": 389,
+      "sha256": "be0621d153ba57e9996694760765350d85cc9bd2249a4fda37f14e6a49e6994e"
+    },
+    {
+      "path": "index.html",
+      "bytes": 54332,
+      "sha256": "dca0521691159d8ffb03cbd8fc565c73fea65c9e05611d1043f93b2e3eccb004"
+    },
+    {
+      "path": "sounds/offline-sound-hit.mp3",
+      "bytes": 5730,
+      "sha256": "509119d93ad46588bb330377570ef53dec8be9bca9ab691c744c8447d3c0528b"
+    },
+    {
+      "path": "sounds/offline-sound-press.mp3",
+      "bytes": 3755,
+      "sha256": "20290f3c46881b4a7dcbeb170696a0b22686e904692edc80422165db4449ea35"
+    },
+    {
+      "path": "sounds/offline-sound-reached.mp3",
+      "bytes": 7497,
+      "sha256": "e5409ef55093e1ac769dcd93be3f7036192384c361f88ff9a7010370420bdcab"
+    },
+    {
+      "path": "__remote/game-cdn.poki.com/scripts/eaa5e71ba816bc70b0d49514e38ab8f23df7c63c/poki-sdk-core-eaa5e71ba816bc70b0d49514e38ab8f23df7c63c.js",
+      "bytes": 332261,
+      "sha256": "754e6a3973b1f0f4a7e652f17f7c1b0f62a9642e1f6f411aaf0b9883370ca561"
+    },
+    {
+      "path": "__remote/game-cdn.poki.com/scripts/v2/poki-sdk.js",
+      "bytes": 6688,
+      "sha256": "06e2fb27d38eaa7e1b169c6c4a64c5af37f73f085509bc87bec3c1a5abb12a24"
+    }
+  ]
+}

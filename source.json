@@ -1,0 +1,24 @@
+{
+  "gameUri": "https://a4e4a244-d11b-4d94-b1d8-deb2dbbaff02.gdn.poki.com/09a3212c-2757-4232-93dc-c002f4ac007f/index.html?country=VN&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdinosaur-game&domain=poki.com&game_id=a4e4a244-d11b-4d94-b1d8-deb2dbbaff02&game_version_id=09a3212c-2757-4232-93dc-c002f4ac007f&inspector=0&csp=1",
+  "domain": "poki.com",
+  "device": "desktop",
+  "onPoki": true,
+  "onKids": false,
+  "isLocal": false,
+  "gameID": "a4e4a244-d11b-4d94-b1d8-deb2dbbaff02",
+  "gameVersion": "09a3212c-2757-4232-93dc-c002f4ac007f",
+  "footer": null,
+  "canonical": "https://poki.com/en/g/dinosaur-game",
+  "contentGameID": 29667,
+  "bot": {
+    "verified": false,
+    "score": 99
+  },
+  "experiment": "",
+  "cloudSaveGames": false,
+  "localisations": {
+    "playingad": "Playing Ad",
+    "loading": "Loading",
+    "preparing": "Preparing..."
+  }
+}
